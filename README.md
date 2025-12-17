@@ -5,12 +5,12 @@ The Projects section highlights my software and hardware-based work, including a
 This portfolio serves as a digital resume and reflects my interest in web development, software engineering, IoT, and cloud technologies, while demonstrating my front-end development skills and attention to design.
 
 🛠️ Technologies Used :
-    HTML5
-    CSS3
-    Responsive Web Design
-    Boxicons
+    HTML5,
+    CSS3,
+    Responsive Web Design,
+    Boxicons.
 
 🎯 Purpose :
-    Showcase personal skills and projects
-    Practice front-end development & responsive design
+    Showcase personal skills and projects,
+    Practice front-end development & responsive design &
     Create a professional online presence
