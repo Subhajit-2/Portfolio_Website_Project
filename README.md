@@ -4,13 +4,13 @@ The website is built using HTML5 and CSS3, focusing on modern UI design, respons
 The Projects section highlights my software and hardware-based work, including a GSM-Based Paralysis Patient Health Monitoring System, Speech-to-Text Converter using AWS, and this Portfolio Website itself. The site also provides a downloadable CV and a contact form for easy communication.
 This portfolio serves as a digital resume and reflects my interest in web development, software engineering, IoT, and cloud technologies, while demonstrating my front-end development skills and attention to design.
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
     HTML5
     CSS3
     Responsive Web Design
     Boxicons
 
-🎯 Purpose
+🎯 Purpose :
     Showcase personal skills and projects
     Practice front-end development & responsive design
     Create a professional online presence
