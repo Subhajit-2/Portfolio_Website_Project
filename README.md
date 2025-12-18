@@ -13,4 +13,6 @@ This portfolio serves as a digital resume and reflects my interest in web develo
 🎯 Purpose :
     Showcase personal skills and projects,
     Practice front-end development & responsive design &
-    Create a professional online presence
+    Create a professional online presence.
+
+https://github.com/user-attachments/assets/a39c6aa6-3b6c-4373-99fa-5e9345d2b27f
